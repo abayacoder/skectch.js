@@ -1,1 +1,0 @@
-# skectch.js
